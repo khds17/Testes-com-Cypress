@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Kauan Henrique",
+        "cpf": "66953769050",
+        "email": "kauan.deliver@gmail.com",
+        "whatsapp": "85987567618",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Pedro Henrique",
+        "cpf": "AAAAAAAAAAAA",
+        "email": "pedrohenrique.deliver@gmail.com",
+        "whatsapp": "85987567618",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Kauan Henrique",
+        "cpf": "66953769050",
+        "email": "kauan.deliver.com",
+        "whatsapp": "85987567618",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
