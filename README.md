@@ -1,4 +1,4 @@
-# Automation-tests-e2e-with_cypress
+# Automation tests e2e with Cypress
 
 Testes funcionais web da plataforma https://buger-eats-qa.vercel.app
 
